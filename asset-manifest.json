@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/osamo-portfolio/static/css/main.bf0fc27d.chunk.css",
+    "main.js": "/osamo-portfolio/static/js/main.d09d5835.chunk.js",
+    "main.js.map": "/osamo-portfolio/static/js/main.d09d5835.chunk.js.map",
+    "runtime-main.js": "/osamo-portfolio/static/js/runtime-main.ef5de0f0.js",
+    "runtime-main.js.map": "/osamo-portfolio/static/js/runtime-main.ef5de0f0.js.map",
+    "static/js/2.173a2e23.chunk.js": "/osamo-portfolio/static/js/2.173a2e23.chunk.js",
+    "static/js/2.173a2e23.chunk.js.map": "/osamo-portfolio/static/js/2.173a2e23.chunk.js.map",
+    "static/css/3.13d9c9f5.chunk.css": "/osamo-portfolio/static/css/3.13d9c9f5.chunk.css",
+    "static/js/3.7f7e3c52.chunk.js": "/osamo-portfolio/static/js/3.7f7e3c52.chunk.js",
+    "static/js/3.7f7e3c52.chunk.js.map": "/osamo-portfolio/static/js/3.7f7e3c52.chunk.js.map",
+    "static/css/4.ee65cb7d.chunk.css": "/osamo-portfolio/static/css/4.ee65cb7d.chunk.css",
+    "static/js/4.52a80f47.chunk.js": "/osamo-portfolio/static/js/4.52a80f47.chunk.js",
+    "static/js/4.52a80f47.chunk.js.map": "/osamo-portfolio/static/js/4.52a80f47.chunk.js.map",
+    "index.html": "/osamo-portfolio/index.html",
+    "static/css/3.13d9c9f5.chunk.css.map": "/osamo-portfolio/static/css/3.13d9c9f5.chunk.css.map",
+    "static/css/4.ee65cb7d.chunk.css.map": "/osamo-portfolio/static/css/4.ee65cb7d.chunk.css.map",
+    "static/css/main.bf0fc27d.chunk.css.map": "/osamo-portfolio/static/css/main.bf0fc27d.chunk.css.map",
+    "static/js/2.173a2e23.chunk.js.LICENSE.txt": "/osamo-portfolio/static/js/2.173a2e23.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/osamo-portfolio/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/CUlogo.png": "/osamo-portfolio/static/media/CUlogo.5a688d42.png",
+    "static/media/contactMailDark.svg": "/osamo-portfolio/static/media/contactMailDark.1db650d3.svg",
+    "static/media/cpLogo.png": "/osamo-portfolio/static/media/cpLogo.f4296945.png",
+    "static/media/developerActivity.svg": "/osamo-portfolio/static/media/developerActivity.2c0445ca.svg",
+    "static/media/manOnTable.svg": "/osamo-portfolio/static/media/manOnTable.8f117eb2.svg",
+    "static/media/nextuLogo.webp": "/osamo-portfolio/static/media/nextuLogo.e033dbfa.webp",
+    "static/media/ptcl-logo-plain.svg": "/osamo-portfolio/static/media/ptcl-logo-plain.a2b085e1.svg",
+    "static/media/saayaHealthLogo.webp": "/osamo-portfolio/static/media/saayaHealthLogo.60b27d1f.webp",
+    "static/media/skill.svg": "/osamo-portfolio/static/media/skill.35a14766.svg",
+    "static/media/TalkCard.css": "/osamo-portfolio/static/media/talksCardBack.73ed1545.svg",
+    "static/media/vodafoneLogo.png": "/osamo-portfolio/static/media/vodafoneLogo.85892bb1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5de0f0.js",
+    "static/js/2.173a2e23.chunk.js",
+    "static/css/main.bf0fc27d.chunk.css",
+    "static/js/main.d09d5835.chunk.js"
+  ]
+}
